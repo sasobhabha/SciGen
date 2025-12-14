@@ -1,2 +1,2 @@
 # SciGen
-MathPrac for science
+App for Science Practice
